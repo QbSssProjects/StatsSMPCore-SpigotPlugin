@@ -1,0 +1,17 @@
+name: statsSMPCore
+version: '${version}'
+main: qbsss.statsmpcore.statssmpcore.StatsSMPCore
+api-version: '1.19'
+prefix: statsSMPCore
+load: STARTUP
+authors: [QbSss]
+description: Core for statsSMP
+commands:
+  menu:
+    usage: /<command>
+  addzycie:
+    usage: /<command>
+  store:
+    usage: /<command>
+  print:
+    usage: /<command>
