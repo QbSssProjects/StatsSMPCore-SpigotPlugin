@@ -13,6 +13,7 @@ import java.util.Date;
 
 import static qbsss.statsmpcore.methods.Color.color;
 
+
 public class PlayerKillOtherPlayer implements Listener
 {
     ItemStack zycie = new ItemStack(Zycie.getItem());

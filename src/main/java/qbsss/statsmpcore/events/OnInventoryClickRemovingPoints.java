@@ -282,7 +282,7 @@ public class OnInventoryClickRemovingPoints implements Listener
        BARRIERY /  AIR
         -||-      -||-
         -||-      -||-
-        NASTĘPNIE ZAMKNIJ GUI ORAZ OINFORMUJ O NIE PRAWIDŁOWEJ ILOŚC PKT  / ZYC
+        NASTEPNIE ZAMKNIJ GUI ORAZ POINFORMUJ O NIE PRAWIDLOWEJ ILOŚC PKT  / ZYC
         */
 
 

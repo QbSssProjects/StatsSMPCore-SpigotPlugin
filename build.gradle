@@ -28,6 +28,7 @@ dependencies {
 
 
 
+
 }
 
 def targetJavaVersion = 17
@@ -43,6 +44,8 @@ java {
 tasks.withType(JavaCompile).configureEach {
     if (targetJavaVersion >= 10 || JavaVersion.current().isJava10Compatible()) {
         options.release = targetJavaVersion
+        compileJava.options.encoding = 'UTF-8'
+        compileTestJava.options.encoding = 'UTF-8'
     }
 }
 

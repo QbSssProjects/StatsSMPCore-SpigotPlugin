@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" build-on-make="true" name="statsSMPCore:jar">
-    <output-path>$PROJECT_DIR$/../Documents/projekty/kloce/servers/statsSMPCore</output-path>
+    <output-path>$PROJECT_DIR$/../Documents/projekty/kloce/servers/1.19.2/plugins</output-path>
     <root id="archive" name="statsSMPCore.jar">
       <element id="module-output" name="statsSMPCore.main" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/net.kyori/adventure-text-serializer-plain/4.13.1/7e4749b301c589ee665fa2844ff71e50e2ea5658/adventure-text-serializer-plain-4.13.1.jar" path-in-jar="/" />
