@@ -1,0 +1,2 @@
+# StatsSMPCore-SpigotPlugin
+StatsSMPCore
